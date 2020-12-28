@@ -1,1 +1,1 @@
-# covid_scanner
+# Covid Scanner iOS App
